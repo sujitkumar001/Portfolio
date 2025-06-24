@@ -25,4 +25,4 @@ Follow the steps below to run this portfolio website on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone (https://github.com/sujitkumar001/Portfolio.git)
