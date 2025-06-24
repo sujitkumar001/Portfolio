@@ -10,7 +10,7 @@ The website is deployed on **Vercel** and is accessible here:
 ### 📷 Screenshot
 Below is a preview of my live portfolio:
 
-![Portfolio Preview](./website_img.png)
+![Portfolio Preview](https://github.com/sujitkumar001/Portfolio/blob/main/wesite_img.png)
 ---
 ### 🛠️ Tech Stack
 - **HTML5** – Markup language for structure  
