@@ -16,7 +16,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 Below is a preview of the website:
 
 
-(Replace with your screenshot path and filename)
+(https://github.com/sujitkumar001/Portfolio/commit/8de8eede3dccf1e6ee718ea521b16fede18afd03)
 
 # Features 📁
 ✅ Responsive design (Mobile & Desktop)
