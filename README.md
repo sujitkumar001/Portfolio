@@ -1,11 +1,11 @@
-🧑‍💻 Personal Portfolio Website
+#🧑‍💻 Personal Portfolio Website
 Welcome to my personal portfolio website! This site showcases my skills, projects, and experience as a web developer and data analyst.
 
 🚀 Live Demo
 🔗 View Live Website
 (Replace with your actual deployed link)
 
-📂 Tech Stack
+#📂 Tech Stack
 🌐 HTML5 — Structure of the website
 
 🎨 CSS3 — Styling and responsiveness
@@ -18,7 +18,7 @@ Below is a preview of the website:
 
 (Replace with your screenshot path and filename)
 
-📁 Features
+#📁 Features
 ✅ Responsive design (Mobile & Desktop)
 
 ✅ Animated hero section
