@@ -3,7 +3,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 🚀 Live Demo
 🔗 View Live Website
-(Replace with your actual deployed link)
+(https://portfolio-eight-tau-ex788t6yf7.vercel.app/)
 
 # Tech Stack
 🌐 HTML5 — Structure of the website
