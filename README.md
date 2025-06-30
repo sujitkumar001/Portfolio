@@ -1,4 +1,4 @@
-#🧑‍💻 Personal Portfolio Website
+# Personal Portfolio Website
 Welcome to my personal portfolio website! This site showcases my skills, projects, and experience as a web developer and data analyst.
 
 🚀 Live Demo
