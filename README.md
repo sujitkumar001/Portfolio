@@ -5,20 +5,20 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 🔗 View Live Website
 (Replace with your actual deployed link)
 
-#📂 Tech Stack
+# Tech Stack
 🌐 HTML5 — Structure of the website
 
 🎨 CSS3 — Styling and responsiveness
 
 ⚙️ JavaScript — Interactivity and DOM manipulation
 
-📸 Screenshot
+# Screenshot
 Below is a preview of the website:
 
 
 (Replace with your screenshot path and filename)
 
-#📁 Features
+# Features 📁
 ✅ Responsive design (Mobile & Desktop)
 
 ✅ Animated hero section
