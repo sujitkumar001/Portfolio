@@ -15,7 +15,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ### 📷 Screenshot
 Below is a preview of my live portfolio:
 
-![Portfolio Preview](https://raw.githubusercontent.com/sujitkumar001/Portfolio/main/assets/website_img.png)
+![Portfolio Preview](https://github.com/sujitkumar001/Portfolio/blob/main/Screenshot.png?raw=true)
 
 
 # Features 📁
