@@ -45,8 +45,8 @@ cd portfolio-website
 📬 Contact Me
 Feel free to reach out:
 
-📧 Email: your.email@example.com
+📧 Email: pulakalasujit001@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/pulakala-sujit-kumar/
 
-🌐 Portfolio: your live portfolio
+🌐 Portfolio: https://portfolio-eight-tau-ex788t6yf7.vercel.app/
