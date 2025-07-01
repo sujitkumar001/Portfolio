@@ -193,7 +193,7 @@ const projectData = {
         'Live status panel with counts and severity levels',
         'Downloadable violation reports (CSV)'
     ],
-    github: 'https://github.com/sujitkumar001/PPE-Detection-System-using-Machine-Learning.git',
+    github: 'https://github.com/sujitkumar001/ppe-detection-yolov8.git',
     demo: 'https://yourproject-demo.vercel.app'
 
     }
